@@ -125,12 +125,12 @@ Thank you. </p>
             {/* ------third projectt */}
 
             <div className='cart' >
-              <img className='image' src='./Uploads/herobanner.png'  />
+              <img className='image' src='./Uploads/crud.jpeg'  />
 
-              <h4>Ecommerce Website</h4>
-              <p>This is my third Project 'Ecommerce - Website '</p>
-              <a href='https://github.com/sarat7873/E-commerce.git'><button className='buton'>Code</button></a>
-              <a href='https://glowmartshop.vercel.app/'><button className='buton'>Live</button></a>
+              <h4>Employeesheet Website</h4>
+              <p>This is my third Project ' Employeesheet Website'</p>
+              <a href='https://github.com/sarat7873/Employeesheet.git'><button className='buton'>Code</button></a>
+              <a href='https://employeesheet01.vercel.app/'><button className='buton'>Live</button></a>
             </div>
 
             <div className='cart' >
