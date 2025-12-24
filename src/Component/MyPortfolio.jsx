@@ -139,7 +139,7 @@ Thank you. </p>
               <h4> Restaurant Website</h4>
               <p>This is my React Project 'Restaurant - Website '</p>
               <a href='https://github.com/sarat7873/Rs-project.git'><button className='buton'>Code</button></a>
-              <a href='https://github.com/sarat7873/Employeesheet.git'><button className='buton'>Live</button></a>
+              <a href='https://netflix18.vercel.app/'><button className='buton'>Live</button></a>
             </div>
             
 
