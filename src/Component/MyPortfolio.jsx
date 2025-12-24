@@ -77,12 +77,20 @@ Thank you. </p>
                 <div className='s-img'><img src='./Images/express.png' className='img' alt="express" />Express</div></a>
               <a className='x' href='https://nodejs.org/en/learn/getting-started/introduction-to-nodejs'>
                 <div className='s-img'><img src='./Images/node.png' className='img' alt="node" />Node.js</div></a>
+                 <a className='x' href='https://www.mysql.com/'>
+                <div className='s-img'><img src='./Images/c.jpg' className='img' alt="C" />Language</div></a>
                 <a className='x' href='https://www.tpointtech.com/'>
                 <div className='s-img'><img src='./Images/java.jpg' className='img' alt="java" />JAVA</div></a>
                 <a className='x' href='https://www.mysql.com/'>
                 <div className='s-img'><img src='./Images/mysql.jpg' className='img' alt="sql" />SQL</div></a>
                 <a className='x' href='https://dotnet.microsoft.com/en-us/'>
                 <div className='s-img'><img src='./Images/net.jpg' className='img' alt=".net" />.NET</div></a>
+                <a className='x' href='https://www.w3schools.com/cs/index.php'>
+                <div className='s-img'><img src='./Images/c1.jpg' className='img' alt="c" />C#</div></a>
+                 <a className='x' href='https://www.geeksforgeeks.org/java/introduction-java-servlets/'>
+                <div className='s-img'><img src='./Images/servlet.jpg' className='img' alt="Servlet" /> Servlet</div></a>
+
+
 
             </div>
           </div>
