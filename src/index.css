@@ -1,4 +1,4 @@
-/* 🌐 Navbar */
+
 .navbar {
   background: linear-gradient(90deg, #141E30, #243B55);
   padding: 10px 20px;
@@ -41,7 +41,7 @@
 }
 
 
-/* 🌟 Portfolio */
+
 .wrapper_outer {
   font-family: 'Poppins', sans-serif;
   color: #fff;
@@ -71,7 +71,7 @@
   
 }
 
-/* 🖼️ Profile Image */
+
 .my_dp {
   border-radius: 50%;
   border: 4px solid #fff;
@@ -86,7 +86,7 @@
   box-shadow: 0 8px 25px rgba(0, 201, 255, 0.6);
 }
 
-/* ✨ Buttons */
+
 .dpbtn,
 .buton {
   background: linear-gradient(45deg, #00C9FF, #92FE9D);
@@ -109,7 +109,7 @@
 }
 
 
-/* 💡 About Section */
+
 
 .abo-box {
   display: flex;
@@ -131,7 +131,7 @@
 }
 
 
-/* 🔧 Skills Flex */
+
 .skills-container {
   display: flex;
   justify-content: center;
@@ -170,7 +170,6 @@
 }
 
 
-/* 🛠️ Projects Flex */
 .projects-container {
   display: flex;
   flex-wrap: wrap;
@@ -203,7 +202,7 @@
 }
 
 
-/*  Footer */
+
 .foot {
   text-align: center;
   padding: 40px 20px;
@@ -223,7 +222,7 @@
 }
 
 
-/* 📱 Responsive */
+
 @media (max-width: 992px) {
   .navbar .nav-link {
     font-size: 14px;
@@ -267,7 +266,7 @@
 
 
 .full-h1{
-  /* -webkit-text-stroke: 1px #fff; */
+
   color: transparent; 
   background-repeat: no-repeat;
   -webkit-background-clip: text;
@@ -284,7 +283,7 @@
   }
 }
 footer.foot {
-  background: #7688c428;  /* Dark background */
+  background: #7688c428; 
   color: #fff;
   padding: 40px 20px;
   text-align: center;
@@ -341,7 +340,6 @@ a.fot:hover {
   color: #00C9FF;
 }
 
-/* Responsive Design */
 @media (min-width: 600px) {
   .full-fot {
     flex-direction: row;
@@ -355,36 +353,35 @@ a.fot:hover {
 }
 
 .about-text {
-  max-width: 800px;     /* Text area limited for better readability */
-  margin: 40px auto;    /* Center align with spacing */
+  max-width: 800px;    
+  margin: 40px auto;   
   padding: 20px;
-  background: #2fc4d805;  /* Light background box */
-  border-radius: 12px;  /* Rounded corners */
-  line-height: 1.8;     /* Good readability */
+  background: #2fc4d805;  
+  border-radius: 12px; 
+  line-height: 1.8;    
   font-size: 1.1rem;
   color: #fcfafa;
-  text-align: justify;  /* Proper alignment */
+  text-align: justify;  
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* Highlight Important Words */
+
 .about-text strong {
   color: #ff9800;
   font-weight: 600;
 }
 
-/* Add small animation effect */
+
 .about-text:hover {
   transform: translateY(-3px);
   transition: all 0.3s ease;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Responsive font sizes */
+
 @media (max-width: 768px) {
   .about-text {
     font-size: 1rem;
     padding: 15px;
   }
 }
-/*
